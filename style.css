@@ -172,3 +172,14 @@ footer {
   color: #aaa;
   font-size: 0.9rem;
 }
+
+.nota-emocional {
+  margin-top: 20px;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.6);
+  text-align: center;
+  line-height: 1.5;
+  max-width: 420px;
+  margin-left: auto;
+  margin-right: auto;
+}
